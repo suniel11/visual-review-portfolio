@@ -2,7 +2,7 @@
 
 A responsive static portfolio featuring a newly prepared visual brand review sample.
 
-**Live portfolio:** https://sunil-visual-review-portfolio.any1-1.chatgpt.site
+**Live portfolio:** https://suniel11.github.io/visual-review-portfolio/
 
 ## Contents
 
